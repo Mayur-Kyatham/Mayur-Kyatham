@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mayur-Kyatham
-- 👀 I’m interested in Data Sciencce
 - 📫 How to reach me kmayur632003@gmail.com
 
 <!---
