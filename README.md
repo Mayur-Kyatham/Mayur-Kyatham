@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayur-Kyatham
+- 👋 Hi, I’m Mayur Kyatham
 - 📫 Reach me kmayur632003@gmail.com
 
 <!---
